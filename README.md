@@ -9,7 +9,7 @@ The application prompts the user to select a color and shape, provide text for t
 
 # Demonstration
 
-[A video of the application in use]()
+[A video of the application in use](https://drive.google.com/file/d/1SJg3bEfN886EvKtYQvnYL5ezrfXihOJb/view)
 
 # License
 

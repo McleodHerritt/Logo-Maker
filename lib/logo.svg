@@ -1,6 +1,6 @@
 
                     <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-                        <polygon points="150, 18 244, 182 56, 182" fill="yellow" />
-                        <text x="150" y="110" font-family="Arial" font-size="24" fill="blue" text-anchor="middle">ABC</text>
+                        <polygon points="150, 18 244, 182 56, 182" fill="green" />
+                        <text x="150" y="110" font-family="Arial" font-size="24" fill="blue" text-anchor="middle">HDE</text>
                     </svg>
                 
